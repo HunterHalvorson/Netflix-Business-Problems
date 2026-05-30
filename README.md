@@ -75,7 +75,3 @@ netflix-sql-analysis/
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-[LinkedIn](#) • [GitHub](#)# Netflix-Business-Problems
